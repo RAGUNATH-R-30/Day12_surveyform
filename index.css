@@ -1,0 +1,36 @@
+.fa{
+    color: gold;
+}
+.div1{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    align-content: space-between;
+}
+.div2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.div3{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+.div4{
+    margin-bottom: 40px;
+
+}
+.div5{
+    margin-bottom: 40px;
+}
+.box{
+    padding: 50px 0px;
+
+}
+#comment{
+    resize: none;
+    height: 150px;
+    width: 100%;
+}
